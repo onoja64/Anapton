@@ -1,8 +1,8 @@
 {
   "categories": [
     {
-      "Name": "Tutorial Videos",
-      "Videos": [
+      "name": "Tutorial Videos",
+      "videos": [
         {
           "description": "This is a Tutorial Video",
           "sources": [
